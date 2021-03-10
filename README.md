@@ -1,9 +1,18 @@
-Сборка проекта и запуск следующей командой в терминале:
-npx webpack
+# App-book-library
+Simple app book library with save data to localStorage 
 
-Для render карточек из меню необходим запуск json-server следующей командой:
-json-server db.json
+## Getting Started
+This project is not necessary install special code or dependencys
+- Clone or download the repo
+- in terminal "json-server db.json" for render cards menu
+- In terminal "npx webpack" for start project
 
-Для корректной работы проекта необходим запуск на сервере.
+## Practiced:
+Webpack, система модулей, json-server, bundle, jQuery, Bootstrap.
 
-Используемые технологии:
+## Authors
+Kir Khorev
+
+## License
+This project is licensed under Unlicense license.
+Copyright (c) 2021
