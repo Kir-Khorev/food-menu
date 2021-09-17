@@ -3,7 +3,7 @@ Pet-project completed as part of the course on Udemy. Implemented the functional
 
 ![screenshot](./img/screenshot.png "screenshot ")
 
-> - [Live Demo](https://khorek.github.io/food-menu/) :food:
+> - [Live Demo](https://khorek.github.io/food-menu/) :avocado:
 
 ## Getting Started
 This project is not necessary install special code or dependencys
